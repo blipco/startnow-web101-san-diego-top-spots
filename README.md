@@ -15,7 +15,7 @@ The data used is from the [JSON File](data.json) and formatted it in a table.
 
 -- No Extras
 
-## **DEPENDANCIES:**
+## **DEPENDENCIES:**
 
 1. chai
 2. express
