@@ -4,7 +4,7 @@
 
 This project shows a list of Top Spots to visit in San Diego, California.
 
-The data used is from the [JSON File](data.json) and formatted it in a table.
+The data used is from the [JSON File](data.json) and transformed into a table.
 
 ## **INSTRUCTIONS:**
 
