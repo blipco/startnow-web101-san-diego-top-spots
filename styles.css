@@ -1,0 +1,61 @@
+body {
+
+    background: url(sd2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+
+}
+
+h1 {
+
+    text-align: center;
+    color: white;
+
+}
+
+table {
+
+    border: 2px solid rgb(188, 136, 190);
+    background-color: rgba(128,128,128,.3);
+    height: 40px;
+    padding: 5px;
+    color: white;
+
+}
+
+tr {
+
+    background-color: rgba(128,128,128,.3);
+    height: 40px;
+    padding: 5px;
+    color: white;
+
+}
+
+td {
+
+    border-right: 2px solid rgb(188, 136, 190);
+    border-left: 2px solid rgb(188, 136, 190);
+    background-color: rgba(128,128,128,.3);
+    height: 40px;
+    padding: 5px;
+    color: white;
+
+}
+
+a {
+
+    padding: 1px;
+    color: yellow;
+    font-size: 25px;
+
+}
+
+#heading {
+
+    background-color: red;
+
+}
